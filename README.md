@@ -1,3 +1,8 @@
+## Projeto em Construção 🚧
+
+Este projeto está em desenvolvimento ativo. Algumas funcionalidades podem estar incompletas ou sujeitas a mudanças.
+
+
 # 🎓 VNW School T3
 
 ![VNW School T3 Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZuYCDmBYqM6HhW5-6REt-jgQxTxMCZeywcjSSs6WDvg&s)
