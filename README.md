@@ -1,7 +1,4 @@
 ## Projeto em Construção 🚧
-
-Este projeto está em desenvolvimento ativo. Algumas funcionalidades podem estar incompletas ou sujeitas a mudanças.  
-
 <br>
 
 > [!CAUTION]
